@@ -48,11 +48,10 @@ a {
   color: #121;
 }
 
-table#icons {
-  border: none;
+#icons {
   float: right;
 }
 
-table#icons img {
+#icons img {
   height: 2em;
 }

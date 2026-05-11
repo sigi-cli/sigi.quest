@@ -1,2 +1,2 @@
-# sigi-cli.org
-https://sigi-cli.org
+# sigi.quest
+https://sigi.quest
